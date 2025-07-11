@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Página Web</title>
+</head>
+<body>
+    <h1>Bienvenido a mi primera página web</h1>
+    <p>Esta es mi primera página web creada como parte del laboratorio 2.</p>
+    <p>Estoy aprendiendo HTML y pronto podré crear sitios más complejos.</p>
+    
+    <h2>me llamo osnaider mejia, soy trabajador de tiempo completo en una empresa,
+    por tal razon, no puedo asistir a las clases presenciales, pero estoy al dia con todo el contenido de las clases.</h2>
+    <p>juego futbol, leo libros y juego call of duty mobile.</p>
+    <ul>
+        <li>jugar</li>
+        <li>Leer</li>
+        <li>Escuchar música</li>
+    </ul>
+    
+    <h3>Mis prioridades de aprendizaje</h3>
+    <ol>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ol>
+    
+    <img src="https://sl.bing.net/dpClLiYGT3A" alt="c:\Users\DELL LAPTOP CORE I7\Videos\2370198.webp" title="COD lo mejor de los juegos.">
+    
+    <p>Visita <a href="https://www.google.com" target="_blank">Google</a> para buscar más información.</p>
+</body>
+</html>
